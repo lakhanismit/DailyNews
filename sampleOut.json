@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Stokes in World Cup squad after ending retirement",
+            "description": "Ben Stokes will be part of England's World Cup squad after reversing his decision to retire from one-day international cricket.",
+            "url": "http://www.bbc.co.uk/sport/cricket/66512824",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/11787/production/_124395517_bbcbreakingnewsgraphic.jpg",
+            "publishedAt": "2023-08-16T09:07:28.900431Z",
+            "content": "Ben Stokes will be part of England's World Cup squad after reversing his decision to retire from one-day international cricket.\r\nStokes is included in the 15-man squad for the series against New Zeal… [+4442 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "China snubs Canada on its list of approved travel spots, setting back tourism's post-COVID recovery | CBC News",
+            "description": "In an apparent snub, the Chinese government has left Canada off a list of countries approved as international travel destinations for tour groups — a decision that threatens to leave Canada's travel industry at a competitive disadvantage as it continues its p…",
+            "url": "http://www.cbc.ca/news/politics/china-canada-tourism-impact-1.6936627",
+            "urlToImage": "https://i.cbc.ca/1.6936803.1692117718!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/vancouver-cherry-blossoms-20230408.JPG",
+            "publishedAt": "2023-08-16T08:07:24.4437503Z",
+            "content": "In an apparent snub, the Chinese government has left Canada off a list of countries approved as international travel destinations for tour groups a decision that threatens to leave Canada's travel in… [+6406 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde",
+            "title": "Classement de Shanghaï 2023 : penser l’enseignement supérieur en dehors des palmarès",
+            "description": "Depuis vingt ans, les responsables politiques français ont fait du « standard » de Shanghaï une clé de réorganisation des établissements d’enseignement supérieur. Mais cet objectif d’inscription dans la compétition internationale ne peut tenir lieu de substit…",
+            "url": "https://www.lemonde.fr/idees/article/2023/08/15/classement-de-shanghai-2023-penser-l-enseignement-superieur-en-dehors-des-palmares_6185475_3232.html",
+            "urlToImage": "https://img.lemde.fr/2023/08/15/26/0/5559/3706/1440/960/60/0/526b0b7_1692110898959-000-9n647f.jpg",
+            "publishedAt": "2023-08-15T15:15:23Z",
+            "content": "Comme tous les classements, celui dit « de Shanghaï », censé comparer le niveau des universités du monde entier, suscite des réactions contradictoires. Que les championnes françaises y soient médiocr… [+3353 chars]"
+        },
+        {
+            "source": {
+                "id": "four-four-two",
+                "name": "FourFourTwo"
+            },
+            "author": "Rich Laverty",
+            "title": "When are the international breaks this season?",
+            "description": "International breaks are planned throughout the domestic season, as Euro 2024 qualifying continues",
+            "url": "https://www.fourfourtwo.com/news/international-breaks-2324",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/jnbJ4Z3f3uqx6JasmTadTP-1200-80.jpg",
+            "publishedAt": "2023-08-15T13:00:00Z",
+            "content": "The international break comes just weeks into the Premier League season – and there are plenty across the season.\r\nThey're some of the dates football fans look for most when the fixtures come out eve… [+3611 chars]"
+        },
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Transferts : Crystal Palace recrute Jefferson Lerma",
+            "description": "Le milieu international colombien Jefferson Lerma, libre de tout contrat après cinq ans à Bournemouth, a signé trois ans à Crystal Palace, ce jeudi.",
+            "url": "https://www.lequipe.fr/Football/Actualites/Transferts-crystal-palace-recrute-jefferson-lerma/1401507",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/jefferson-lerma-j-feeney-offside-presse-sports/1500000001795952/0:0,1426:1426-640-640-75/fdf8d.jpg",
+            "publishedAt": "2023-06-08T14:09:07+00:00",
+            "content": "Libre après cinq ans à Bournemouth, qui avait dépensé plus de 30 millions d'euros pour se l'offrir en 2018, le milieu international colombien Jefferson Lerma s'est engagé ce jeudi avec Crystal Palace… [+77 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "rte",
+                "name": "RTE"
+            },
+            "author": "RTÉ News",
+            "title": "Coveney condemns Gaza child deaths, urges UN to respond",
+            "description": "Simon Coveney commented: \"This cannot be acceptable to the international community. The UN Security Council needs to speak with one voice to hold those responsible to account.\"",
+            "url": "https://www.rte.ie/news/2021/0515/1221835-israel-palestine-reaction/",
+            "urlToImage": "https://img.rasset.ie/001657f0-1600.jpg",
+            "publishedAt": "2021-05-15T15:20:48Z",
+            "content": "The Minister for Foreign Affairs has condemned the deaths of children in Gaza as \"not acceptable\".\r\nSimon Coveney, posting on Twitter, also urged the United Nations Security Council (UNSC) to \"hold t… [+3316 chars]"
+        }
+    ]
+}
